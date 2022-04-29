@@ -18,12 +18,10 @@
 -->
 <div align="left"> <h3>Current Status Quo:</h3>
     
-- 👀 I’m interested in Machine Learning and Aritificial Intelligence.
+- 👀 I’m interested in Aritificial Intelligence and competitive programming.
 - 🌱 I’m currently learning C# Windows Forms Application.
 - 💞️ I’m looking for internship opportunities for Computer Programmers.
 - 📫 How to reach me: Catch and follow me from the email above.
-- 🏫 This is for my school activities; Not my main GitHub account.
-- ⚡ Fun fact(?): Constantly having Imposter Syndrome.
 </div>
 <br>
 
