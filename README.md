@@ -25,18 +25,6 @@
 </div>
 <br>
 
-<div align="left"> <h3>Languages and Tools:</h3>
-    <p align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height: 4rem"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 4rem"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 4rem"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="height: 4rem"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 4rem"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="height: 4rem"/>
-    </p>
-</div>
-<br>
-
 <div align="left"> <h3>GitHub Statistical Data:</h3>
     <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulsayedd&theme=highcontrast&date_format=j%20M%5B%20Y%5D"
