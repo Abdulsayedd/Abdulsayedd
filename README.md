@@ -19,7 +19,7 @@
 <div align="left"> <h3>Current Status Quo:</h3>
     
 - 👀 I’m interested in Aritificial Intelligence and competitive programming.
-- 🌱 I’m currently learning C# Windows Forms Application.
+- 🌱 I’m currently learning C# Windows Forms Application and c++ for competitive programming.
 - 💞️ I’m looking for internship opportunities for Computer Programmers.
 - 📫 How to reach me: Catch and follow me from the email above.
 </div>
