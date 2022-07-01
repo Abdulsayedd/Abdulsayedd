@@ -1,12 +1,6 @@
 # Hi there, I'm Mohammed 👋 
 > Computer Science student at [El shorouk academy](https://www.sha.edu.eg/)
 
-<br/>
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBJ-_qfKxYoegjBe3AYOpbw?logo=youtube&logoColor=red&style=for-the-badge)
-
-<br/>
-
 ## A Computer Science student and a problem solver!
 
 - 🔭 Check out my Problem solves: [Problems](https://github.com/Abdulsayedd/Problems)
