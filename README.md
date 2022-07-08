@@ -33,8 +33,16 @@
 
 #
 
+
+
+
 <h2 align="center">Top langs</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsayedd&langs_count=10&theme=gotham&text_color=fff&layout=compact" alt="Abdulsayedd :: Top Langs" /></p>
+
+#
+
+<h2 align="center">Last 10 days Contribution</h2>
+<p align="center"><img width="480px"src="https://github-contribution-graph.ez4o.com/?username=Abdulsayedd&last_n_days=10&img_url=https://www.colorhexa.com/0c1014.png" alt="Abdulsayedd :: Contribution" /></p>
 
 
 <hr>
@@ -64,3 +72,8 @@
 <a href="https://www.linkedin.com/in/abdulsayed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@abdulsayed-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:abdulsayedd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdulsayedd@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
+
+
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdulsayedd&bg_color=0C1014&color=ffffff&line=2AA788&point=ffffff&area=true&hide_border=true)
+
