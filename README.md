@@ -5,8 +5,6 @@
 
 - 🔭 Check out my Problem solves: [Problems](https://github.com/Abdulsayedd/Problems)
 - 🌱 I’m currently learning Advanced Problem solving techniques and algorithms 
-- 👯 I’m looking to collaborate with other content creators & to start my business
-- 🥅 2022 Goals: Learn more about web3
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1LmM3iX8PBKiHK_ynfnqpazofayNscHxQ/view?usp=sharing)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Abdulsayedd/Cirtificates)*
