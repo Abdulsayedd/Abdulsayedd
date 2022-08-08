@@ -40,11 +40,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsayedd&langs_count=10&theme=gotham&text_color=fff&layout=compact" alt="Abdulsayedd :: Top Langs" /></p>
 
 #
-
-<h2 align="center">Last 10 days Contribution</h2>
-<p align="center"><img width="480px"src="https://github-contribution-graph.ez4o.com/?username=Abdulsayedd&last_n_days=10&img_url=https://www.colorhexa.com/0c1014.png" alt="Abdulsayedd :: Contribution" /></p>
-
-
 <hr>
 
 <h2 align="center">Repositories</h2>
