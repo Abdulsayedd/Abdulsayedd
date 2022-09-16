@@ -6,7 +6,7 @@
 - 🔭 Check out my Problem solves: [Problems](https://github.com/Abdulsayedd/Problems)
 - 🌱 I’m currently learning Advanced Problem solving techniques and algorithms 
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1LmM3iX8PBKiHK_ynfnqpazofayNscHxQ/view?usp=sharing)*
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/drive/folders/1pOB6YgJMdKPDcLBzem_reX9QVo0M-gct)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Abdulsayedd/Cirtificates)*
 <br />
 
