@@ -4,7 +4,7 @@
 ## A Computer Science student and a problem solver!
 
 - 🔭 Check out my Problem solves: [Problems](https://github.com/Abdulsayedd/Problems)
-- 🌱 I’m currently learning Advanced Problem solving techniques and algorithms 
+- 🌱 I’m currently studying .NET FrameWork
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/19i7F3iy9y1E1hXLA_sq4mtRxnnw4iIWF/view?usp=sharing)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Abdulsayedd/Cirtificates)*
