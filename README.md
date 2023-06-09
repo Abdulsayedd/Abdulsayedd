@@ -40,19 +40,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsayedd&langs_count=10&theme=gotham&text_color=fff&layout=compact" alt="Abdulsayedd :: Top Langs" /></p>
 
 #
-<hr>
-
-<h2 align="center">Repositories</h2>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/Abdulsayedd/Problems" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulsayedd&repo=Problems&theme=gotham"></a><a align="right" href="https://github.com/Abdulsayedd/Data-Structure" title="Data-Structure"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulsayedd&repo=Data-Structure&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/Abdulsayedd/File-structure" title="File-structure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulsayedd&repo=File-structure&theme=gotham"></a>
-  <a align="right" href="https://github.com/Abdulsayedd/OOP" title="OOP"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulsayedd&repo=OOP&theme=gotham"></a>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/Abdulsayedd?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <p align = "center">
     ⭐️ From <a href="https://github.com/Abdulsayedd/">Abdulsayedd</a>
@@ -67,8 +54,4 @@
 <a href="https://www.linkedin.com/in/abdulsayed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@abdulsayed-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:abdulsayedd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdulsayedd@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
-
-
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdulsayedd&bg_color=0C1014&color=ffffff&line=2AA788&point=ffffff&area=true&hide_border=true)
 
