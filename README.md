@@ -4,7 +4,7 @@
 ## A Computer Science student and a problem solver!
 
 - 🔭 Check out my Problem solves: [Problems](https://github.com/Abdulsayedd/Problems)
-- 🌱 I’m currently studying .NET 
+- 🌱 .NET core 
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1yYb5IK-ztWp-0SqZN_UsdGW3ny7JZDX2/view?usp=sharing)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Abdulsayedd/Cirtificates)*
