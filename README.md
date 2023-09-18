@@ -1,9 +1,9 @@
 # Hi there, I'm Mohammed 
 > Computer Science student at [El shorouk academy](https://www.sha.edu.eg/)
 
-## A Computer Science student and a problem solver!
+## A Computer Science student and a .NET Developer!
 
-- 🔭 Check out my Problem solves: [Problems](https://github.com/Abdulsayedd/Problems)
+- 🔭 Check out my [Projects](https://github.com/Abdulsayedd/Projects)
 - 🌱 .NET core
 - 💀 Graphic Design
 - 😎 Video Editing
